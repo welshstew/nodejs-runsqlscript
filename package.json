@@ -1,0 +1,14 @@
+{
+  "name": "postgres-postinit-runsqlscript",
+  "version": "1.0.0",
+  "description": "Simple run sql in Postgres using Node",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@databases/pg": "^5.1.0"
+  }
+}
